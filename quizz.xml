@@ -1,0 +1,45 @@
+<quiz>
+    <question>
+        <text>What is the capital of Romania?</text>
+        <options>
+            <option>A. Berlin</option>
+            <option>B. Budapest</option>
+            <option>C. Bucharest</option>
+            <option>D. Paris</option>
+        </options>
+        <correct_option>C</correct_option>
+    </question>
+    
+    <question>
+        <text>Which planet is known as the "Red Planet?"</text>
+        <options>
+            <option>A. Earth</option>
+            <option>B. Mars</option>
+            <option>C. Venus</option>
+            <option>D. Jupiter</option>
+        </options>
+        <correct_option>B</correct_option>
+    </question>
+
+    <question>
+        <text>What is the largest ocean in the world?</text>
+        <options>
+            <option>A. Atlantic Ocean</option>
+            <option>B. Indian Ocean</option>
+            <option>C. Pacific Ocean</option>
+            <option>D. Arctic Ocean</option>
+        </options>
+        <correct_option>C</correct_option>
+    </question>
+
+    <question>
+        <text>Who wrote the play 'Romeo and Juliet'?</text>
+        <options>
+            <option>A. William Shakespeare</option>
+            <option>B. Charles Dickens</option>
+            <option>C. Jane Austen</option>
+            <option>D. Mark Twain</option>
+        </options>
+        <correct_option>A</correct_option>
+    </question>
+</quiz>
