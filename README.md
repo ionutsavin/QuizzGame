@@ -57,7 +57,7 @@ Welcome to QuizzGame, a personal project developed to create an engaging, multit
 
 6. **Manage Questions**
 
-   - Questions can be added or updated in resources/questions.xml.
+   - Questions can be added or updated in questions.xml.
 
 ### Additional Resources
 
