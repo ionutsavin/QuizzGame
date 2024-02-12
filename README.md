@@ -58,11 +58,3 @@ Welcome to QuizzGame, a personal project developed to create an engaging, multit
 6. **Manage Questions**
 
    - Questions can be added or updated in questions.xml.
-
-### Additional Resources
-
-For more insights into the technologies used:
-
-- [TCP/IP Sockets](https://en.wikipedia.org/wiki/Network_socket)
-- [libxml2 Parser](http://xmlsoft.org/)
-- [SQLite Database](https://www.sqlite.org/index.html)
